@@ -1,0 +1,2 @@
+# Because this is a docker file targeting linux, make sure the line endings is lf
+* text eol=lf
